@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Nome do Produto
+hero_subtitle: Tânia Nunes · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -22,7 +22,8 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Frase-conceito (uma linha): qual é a proposta? 
+
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
@@ -30,6 +31,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 ## Conceito
 
 Ideia central do produto. O que é, para quem, porquê.
+
 
 ![](attachments/placeholder.png)
 

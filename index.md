@@ -21,11 +21,12 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 20XXXXX | Aluno A          |
+| 2024315 | Adriana Graveiro |
+| 20ZZZZZ | Aluno C          |
+| 2024324 | Tânia Nunes      |
 
 ---
 
@@ -52,10 +53,10 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/Tânia/">
+    <img src="produtos/Tânia/attachments/cidade_dos_sonhos.png" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Tânia Nunes</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
