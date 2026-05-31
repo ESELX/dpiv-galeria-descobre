@@ -52,18 +52,17 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
-COMO SE BRINCA
+**Como se brinca**
 A criança seleciona quantos troncos pretende utilizar, 1 tronco (nível fácil), 2 troncos (nível intermédio) ou 3 troncos (nível difícil) e, encaixa-os na base. Em seguida, escolhe as peças da “cidade” e distribui-as pelos ramos, tentando manter o equilíbrio da estrutura. O desafio consiste em posicionar cada peça de forma estratégica, evitando que a árvore tombe ou que as peças caiam. O jogo termina quando a árvore se mantém estável com todas as peças colocadas ou quando a estrutura perde equilíbrio, incentivando a tentativa, o erro e a reconstrução.
 
-IDADE-ALVO
+**Idade-alvo**
 O brinquedo é adequado para crianças dos 6 aos 12 anos, faixa etária que apresenta uma coordenação motora mais desenvolvida, capacidade de resolução de problemas e interesse por desafios estruturais e atividades de construção.
 
-MONTAGEM 
+**Montagem**
 A montagem é simples e intuitiva, permitindo autonomia total da criança: encaixar o tronco na base; selecionar o nível de dificuldade; distribuir as peças pelos ramos; ajustar posições para manter o equilíbrio; Não requer ferramentas nem instruções complexas.
 
-CONFORMIDADE COM A DIRETIVA 2009/48/CE 
+**Conformidade com a diretiva 2009/48/CE** 
 O brinquedo cumpre os requisitos da Diretiva 2009/48/CE relativa à segurança dos brinquedos, garantindo: utilização de materiais seguros e não tóxicos; ausência de arestas cortantes ou elementos perigosos; dimensões adequadas para evitar risco de ingestão; estabilidade estrutural e resistência mecânica; indicação clara da idade recomendada e modo de utilização;
-
 Esta conformidade assegura que o produto pode ser utilizado de forma segura tanto em contexto doméstico como educativo.
 
 ## Apresentação

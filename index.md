@@ -54,7 +54,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/Tânia/">
-    <img src="produtos/Tânia/attachments/cidade_dos_sonhos.png" alt="" />
+    <img src="produtos/Tânia/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Tânia Nunes</p>
   </a>

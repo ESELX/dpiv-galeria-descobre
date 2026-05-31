@@ -53,9 +53,10 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
-
-![](attachments/placeholder.png)
-
+![](attachments/esboços_arquitetura.jpeg)
+![](attachments/prancha_resumo_2.png)
+![](attachments/prancha_resumo_1.png)
+COLOCAR 3 PRANCHAS RESUMO + RECENTE PRIMEIRO - MAIS ANTIGA ULTIMO + DESENHOS E ESBOÇOS
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -66,8 +67,19 @@ exploração de variantes.
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
-
+![](attachments/objetos_referencia.jpg)
+**Imagem 1** - *Jenga*
+Referência à mecânica de empilhar e construir; inspira a lógica do equilíbrio e a tensão do jogo, onde as peças não poderem cair. 
+**Imagem 2** - *João e o Pé de Feijão Mágico*
+Inspiração na verticalidade do feijão que cresce; traduz-se no jogo como uma progressão em altura e a ideia de subir.
+**Imagem 3** - *As Cidades Invisíveis*
+Referência arquitetónica; as narrativas do capítulo *As cidades e o céu* influenciaram a forma e a composição do brinquedo.
+**Imagem 4** - *Tinker Bell*
+Inspiração nas casas-árvore e nas proximidades entre habitações; referência estética para a escala do brinquedo.
+**Imagem 5 -** *City Block Set* 
+Exemplo de construção e empilhamento; a ideia do tema "cidade" do projeto parte desta referência histórica.
+**Imagem 6 -** *Macacos Acrobatas*
+Referência ao equilíbrio e ao risco das peças cairem; inspira a a brincadeira do projeto.
 ## 9. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
