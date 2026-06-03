@@ -18,28 +18,44 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Fotografias do protótipo final em fundo branco.
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![Protótipo final](attachments/skyvila_prototipo1.jpeg)
+Protótipo final - vista lateral direita
+
+![](attachments/skyvila_prototipo2.jpeg)
+Protótipo final - vista três-quartos
+
+![](attachments/skyvila_prototipo3.jpeg)
+Detalhe das peças montadas
+
+![](attachments/skyvila_prototipo4.jpeg)
+Detalhe dos encaixes 
+
+![](attachments/skyvila_tronco.jpeg)
+Troncos do brinquedo
+
+![](attachments/skyvila_peças1.jpeg)
+Componentes do tronco desmontados
+
+![](attachments/skyvila_peças2.jpeg)
+Componentes das peças arquitetónicas
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
-Registo do processo de prototipagem em CNC, desde a preparação até às peças finais cortadas e montagem inicial.
-**FALTA COLOCAR FOTOS DAS PEÇAS TODAS + FOTO DA MONTAGEM
+Registo do processo de prototipagem em CNC, com fresa de 3 mm utilizada para o corte da placa de 12 mm, desde a preparação até às peças finais cortadas.
 
 ![](attachments/cnc_corte2.jpeg)
-Resultado do corte das peças arquitetónicas do brinquedo.
+Resultado do corte das peças arquitetónicas do brinquedo
 
 ![](attachments/cnc_corte1.jpeg)
-Resultado do corte da base e dos troncos do brinquedo. 
+Resultado do corte da base e dos troncos do brinquedo
 
 ![](attachments/cnc_processo.jpeg)
-Preparação da máquina antes do corte.
+Preparação da máquina antes do corte
 
 ![](attachments/cnc_preparaçao.jpeg)
-Fixação da placa na mesa da CNC antes do corte.
+Fixação da placa na mesa da CNC antes do corte
 
 ## 3. Protótipos Exploratórios
 
@@ -55,9 +71,16 @@ https://a360.co/4cS26xF
 
 ## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Maquete exploratória em K-line representando a proposta do brinquedo numa escala reduzida. 
 
-![](attachments/placeholder.png)
+![](attachments/maquete1.jpeg)
+Maquete - vista três-quartos
+
+![](attachments/maquete2.jpeg)
+Maquete - vista lateral
+
+![](attachments/maquete3.jpeg)
+Componentes da maquete
 
 ## 6. Esboços e Pranchas-Resumo
 
@@ -73,7 +96,10 @@ COLOCAR 3 PRANCHAS RESUMO + RECENTE PRIMEIRO - MAIS ANTIGA ULTIMO + DESENHOS E E
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/moodboard_individual.png)
+Moodboard técnico
+
+O moodboard técnico valoriza a verticalidade como eixo estrutural do brinquedo, as casas e os prédios influenciam a sua composição e ângulos, e o empilhamento orienta a organização das peças. Esta abordagem formal guia o projeto para uma linguagem baseada no equilíbrio e na construção por camadas verticais.
 
 ### 7.2. Objetos de referencia
 
