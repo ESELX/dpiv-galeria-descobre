@@ -26,9 +26,20 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 ## 2. Processo de Prototipagem
 
 Maquinação CNC, montagem, acabamentos pontuais. 
+Registo do processo de prototipagem em CNC, desde a preparação até às peças finais cortadas e montagem inicial.
+**FALTA COLOCAR FOTOS DAS PEÇAS TODAS + FOTO DA MONTAGEM
 
-![](attachments/placeholder.png)
+![](attachments/cnc_corte2.jpeg)
+Resultado do corte das peças arquitetónicas do brinquedo.
 
+![](attachments/cnc_corte1.jpeg)
+Resultado do corte da base e dos troncos do brinquedo. 
+
+![](attachments/cnc_processo.jpeg)
+Preparação da máquina antes do corte.
+
+![](attachments/cnc_preparaçao.jpeg)
+Fixação da placa na mesa da CNC antes do corte.
 
 ## 3. Protótipos Exploratórios
 
@@ -40,7 +51,7 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/4cS26xF
 
 ## 5. Outros Modelos
 
@@ -57,6 +68,7 @@ exploração de variantes.
 ![](attachments/prancha_resumo_2.png)
 ![](attachments/prancha_resumo_1.png)
 COLOCAR 3 PRANCHAS RESUMO + RECENTE PRIMEIRO - MAIS ANTIGA ULTIMO + DESENHOS E ESBOÇOS
+
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -80,6 +92,7 @@ Inspiração nas casas-árvore e nas proximidades entre habitações; referênci
 Exemplo de construção e empilhamento; a ideia do tema "cidade" do projeto parte desta referência histórica.
 **Imagem 6 -** *Macacos Acrobatas*
 Referência ao equilíbrio e ao risco das peças cairem; inspira a a brincadeira do projeto.
+
 ## 9. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
