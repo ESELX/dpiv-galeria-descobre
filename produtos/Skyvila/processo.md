@@ -57,12 +57,6 @@ Preparação da máquina antes do corte
 ![](attachments/cnc_preparaçao.jpeg)
 Fixação da placa na mesa da CNC antes do corte
 
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
 ## 4. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
@@ -84,12 +78,20 @@ Componentes da maquete
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+Esta secção reúne os esboços iniciais e as pranchas-resumo que documentam a evolução do projeto ao longo das diferentes fases de desenvolvimento.
+
+![](attachments/prancha_resumo_final.png)
+Prancha-resumo 3 - Terceira fase
+
 ![](attachments/esboços_arquitetura.jpeg)
+
+
 ![](attachments/prancha_resumo_2.png)
+Prancha-resumo 2 - Segunda fase
+
 ![](attachments/prancha_resumo_1.png)
+Prancha-resumo 1 - Primeira fase
+
 COLOCAR 3 PRANCHAS RESUMO + RECENTE PRIMEIRO - MAIS ANTIGA ULTIMO + DESENHOS E ESBOÇOS
 
 ## 7. Pesquisa

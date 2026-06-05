@@ -1,10 +1,10 @@
 ---
-title: Nome do Produto
+title: Skyvila
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: Nome do Produto
+hero_image: attachments/capa_skyvila_building.png
+hero_title: Skyvila
 hero_subtitle: Tânia Nunes · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Skyvila
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,16 +22,9 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta? 
 > Equilibra, constrói e não deixes cair.
-> Constrói a cidade. Mantém a árvore de pé.
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
-
-Ideia central do produto. O que é, para quem, porquê.
 
 O produto consiste num brinquedo de construção e equilíbrio destinado a crianças dos **6 aos 12 anos**, com o objetivo de estimular a criatividade, a coordenação motora e o pensamento espacial. A estrutura é composta por **três troncos de árvore**, cuja dificuldade aumenta conforme o número de troncos empilhados. A criança deve equilibrar as peças da “cidade” nos ramos, evitando que caiam ou que a árvore perca estabilidade. O brinquedo promove a experimentação, a descoberta de soluções e a exploração de múltiplas possibilidades de montagem.
 
