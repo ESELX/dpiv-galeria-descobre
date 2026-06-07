@@ -1,5 +1,5 @@
 ---
-title: Nome do Produto
+title: BUDDYUP
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# BUDDYUP
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
