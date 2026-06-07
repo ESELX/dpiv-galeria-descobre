@@ -22,20 +22,31 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome        |
-| ------- | ----------- |
-| 20XXXXX | Aluno A     |
-| 20YYYYY | Aluno B     |
-| 20ZZZZZ | Aluno C     |
-| 2024324 | Tânia Nunes |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2024284 | Adaíse Neto      |
+| 2024315 | Adriana Graveiro |
+| 2024339 | Ana Brügger      |
+| 2024324 | Tânia Nunes      |
 
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
+
+![](attachments/capa_conjunto_brinquedos.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros... LINHAS NESTOR BUILDING E NESTOR VERSUS
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+A **Nestor** é uma marca dedicada à criação de brinquedos em **madeira recuperada** que promovem sustentabilidade, durabilidade e experiências de brincar com significado. O principal objetivo é tranformar madeira desperdiçada em objetos que estimulem a criatividade, a descoberta e o desenvolvimento cognitivo, oferecendo produtos com design cuidado, segurança e elevado valor pedagógico. 
+
+A Nestor organiza os seus produtos em duas linhas complementares: **NESTOR BUILDING** e **NESTOR VERSUS**, criadas para responder a diferentes modos de brincar e necessidades de desenvolvimento dentro da faixa etária alvo. A distinção entre linhas permite articular vertentes distintas da experiência lúdica, garantindo coerência pedagógica e diversidade de estímulos. 
+**NESTOR BUILDING**: O que é: linha de brinquedos de construção, de empilhamento e encaixe que propõe desafios progressivos de montagem. 
+Caracteristicas: peças modelares e empilháveis, níveis de dificuldade escalonados; foco na exploração espacial e experimentação de opções. Os conjuntos podem ser combinados entre si, criando um universo aberto que permite às crianças ampliar e personalizar o seu "mundo". 
+Objetivos pedagógicos: desenvolver noções espaciais, coordenação motora fina, resolução de problemas e persistência.
+**NESTOR VERSUS**: O que é: linha orientada para o jogo social e competição saudável, centrada na interação, na narrativa e na resolução de conflitos lúdicos. 
+Características: conjuntos pensados para partidas curtas ou cooperativas; regras simples e adaptáveis; peças que favorecem estratégia e storytelling.
+Objetivos pedagógicos: promover competências sociais, tomada de decisão, pensamento estratégico e empatia através do jogo partilhado.  
+
+Ambas as linhas partilham valores comuns: madeira recuperada, design pensado ao detalhe e foco nas experiências que promovem criatividade e descoberta. Em conjunto, **NESTOR BUILDING** e **NESTOR VERSUS** compõem um portfólio coerente que responde a diferentes formas de brincar e aprender ao longo do crescimento infantil, oferecendo soluções tanto para o jogo autónomo como para a interação social.
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
@@ -59,23 +70,20 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <h3>Skyvila</h3>
     <p>Tânia Nunes</p>
   </a>
-  
 <a class="gallery-card" href="produtos/BuddyUp/">
     <img src="produtos/BuddyUp/attachments/hero.jpg" alt="" />
     <h3>BuddyUp</h3>
-    <p>Nome do Aluno</p>
+    <p>Adriana Graveiro</p>
   </a>
-  
   <a class="gallery-card" href="produtos/Blokar/">
     <img src="produtos/Blokar/attachments/hero.jpg" alt="" />
     <h3>Blokar</h3>
-    <p>Nome do Aluno</p>
+    <p>Ana Brügger</p>
   </a>
-  
   <a class="gallery-card" href="produtos/TriTower/">
     <img src="produtos/TriTower/attachments/hero.jpg" alt="" />
     <h3>TriTower</h3>
-    <p>Nome do Aluno</p>
+    <p>Adaíse Neto</p>
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 

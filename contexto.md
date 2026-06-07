@@ -22,11 +22,27 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ### Resumo (PT)
 
-Coloque aqui o resumo do projeto em português (máximo 500 palavras).
+A **NESTOR** nasce como uma proposta de design sustentável que une a fabricação digital, a pedagogia e a reutilização de materiais desperdiçados pelas indústrias de mobiliário. O projeto parte da ideia de que o desperdício industrial pode ser transformado em brinquedos com valor educativo e emocional, criando peças em madeira recuperada que estimulam a criatividade, a descoberta e o pensamento crítico. Através da integração do corte CNC, o sistema otimiza o uso da matéria-prima e reduz o impacto ambiental, convertendo excedentes da indústria do mobiliário em objetos duráveis e significativos.
+
+Mais do que um conjunto de brinquedos, a NESTOR representa um sistema modular de aprendizagem. Cada peça é desenhada para ser explorada, desmontada e reconstruída, permitindo múltiplas combinações e interpretações. A precisão do corte CNC garante encaixes seguros e flexíveis, enquanto o uso de madeira recuperada traduz o compromisso da marca com uma produção responsável e sustentável.
+
+O projeto organiza-se em duas linhas complementares: **NESTOR BUILDING**, dedicada à construção e experimentação espacial, estimula a coordenação motora, a persistência e o raciocínio lógico através de desafios progressivos de montagem; e **NESTOR VERSUS**, centrada na interação social e na competição saudável, promove empatia, estratégia e cooperação através do jogo partilhado. Ambas partilham uma linguagem visual coerente e uma abordagem pedagógica que valoriza o brincar como forma de aprender.
+
+Formalmente, o design dos brinquedos inspira-se na tradição dos brinquedos em madeira, dos sistemas modulares de Leonardo da Vinci aos puzzles japoneses Kumiki, reinterpretando esses princípios com tecnologia contemporânea. A estética cuidada e o contraste entre madeiras claras e escuras, como pinho e cerejeira, conferem identidade à marca, transmitindo equilíbrio entre simplicidade e engenho construtivo.
+
+A **NESTOR** propõe, assim, uma reflexão sobre o papel do design na educação e na sustentabilidade. Ao transformar desperdício em objetos de descoberta, o projeto demonstra como o design pode ser simultaneamente funcional, pedagógico e ecológico, convidando crianças e adultos a redescobrir o valor do brincar e da matéria natural. Além disso, a marca NESTOR transmite a sua estética e valores através da identidade gráfica e de todos os elementos que a compõem, garantindo coerência entre o produto físico e a comunicação visual, uma expressão que integra os princípios de sustentabilidade, clareza e aprendizagem que definem o projeto.
 
 ### Abstract (EN)
 
-Place here the abstract in English (max 500 words).
+**NESTOR** is born as a sustainable design proposal that brings together digital fabrication, pedagogy, and the reuse of materials wasted by the furniture industry. The project starts from the idea that industrial waste can be transformed into toys with educational and emotional value, creating pieces in reclaimed wood that stimulate creativity, discovery, and critical thinking. Through the integration of CNC cutting, the system optimizes the use of raw material and reduces environmental impact, converting furniture-industry surpluses into durable and meaningful objects.
+
+More than a set of toys, NESTOR represents a modular learning system. Each piece is designed to be explored, disassembled, and reassembled, allowing multiple combinations and interpretations. The precision of CNC cutting ensures secure and flexible joints, while the use of reclaimed wood reflects the brand’s commitment to responsible and sustainable production.
+
+The project is organized into two complementary lines: **NESTOR BUILDING**, dedicated to construction and spatial experimentation, which stimulates motor coordination, persistence, and logical reasoning through progressively challenging assembly tasks; and **NESTOR VERSUS**, focused on social interaction and healthy competition, which promotes empathy, strategy, and cooperation through shared play. Both lines share a coherent visual language and a pedagogical approach that values play as a form of learning.
+
+Formally, the toy designs draw on the tradition of wooden toys, from Leonardo da Vinci’s modular systems to Japanese Kumiki puzzles, reinterpreting these principles with contemporary technology. The careful aesthetic and the contrast between light and dark woods, such as **pine and cherry**, give the brand its identity, conveying a balance between simplicity and constructive ingenuity.
+
+**NESTOR** thus proposes a reflection on the role of design in education and sustainability. By transforming waste into objects of discovery, the project demonstrates how design can be simultaneously functional, pedagogical, and ecological, inviting children and adults to rediscover the value of play and natural materials. Furthermore, the NESTOR brand conveys its aesthetic and values through its visual identity and all its constituent elements, ensuring coherence between the physical product and visual communication, an integrated expression of the project’s principles of sustainability, clarity, and learning.
 
 ## 2. Referências Coletivas
 
@@ -44,3 +60,58 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
 ![Moodboard](attachments/moodboard_grupo.jpg)
+Moodboard de referências
+
+O moodboard foi essencial para a direção dos nossos brinquedos e serviu como ponto de partida para o processo criativo de cada peça, orientando formas, encaixes e escolha de material. A partir das referências selecionadas definimos linhas curvas, tipos de junta e paleta de madeiras (pinho e cerejeira), privilegiando o contraste entre tons claros e tons mais escuros. Serviu assim para consolidar critérios comuns de grupo e orientou o desenvolvimento de cada brinquedo. 
+
+## 3. Embalagem
+
+### 3.1. Conceito e Materialidade
+
+A conceção da embalagem partiu dos princípios da sustentabilidade, do detalhe e do impacto gráfico, prócuramos materiais e soluções que comuniquem os valores da marca **NESTOR** e que ao mesmo tempo chamem a atenção das crianças e dos compradores (pais). 
+Optámos por cartão reciclado de alta gramagem, impressão de baixo impacto e acabamentos que valorizem a textura natural, garantindo presença visual sem desperdício. 
+
+![](attachments/mockup1.jpg)
+Mockup da embalagem principal - vista lateral
+
+![](attachments/mockup2.jpg)
+Mockup da embalagem principal - vista frontal 
+
+![](attachments/mockup_building.jpg)
+Mockup da embalagem secundária - NESTOR BUILDING
+
+![](attachments/mockup_versus.jpg)
+Mockup da embalagem secundária - NESTOR VERSUS
+
+Foi então pensada numa estrutura constituída por uma caixa principal, capaz de acomodar até quatro brinquedos de uma só vez, complementada por embalagens secundárias identificadas por cada submarca (**NESTOR BUILDING, NESTOR VERSUS**). Estas embalagens secundárias funcionam como organizadores modulares que facilitam a identificação da linha a que cada produto pertence, organizam os brinquedos dentro da caixa principal e podem ser utilizadas como embalagens individuais caso o brinquedo seja compardo separadamente. 
+
+O design privilegiou também a portalidade e a reutilização, a caixa principal inclui uma alça ergonómica para facilitar o transporte pela criança, e a construção permite múltiplos usos ao longo do tempo. 
+
+### 3.2. Cortante
+
+Aqui encontra-se o cortante da embalagem. O layout foi desenhado para garantir continuidade gráfica quando a caixa está totalmente fechada. O padrão ilustrativo desenvolvido foi pensado como extensão da identidade visual da marca. 
+
+![](attachments/cortante.png)
+Cortante - embalagem principal
+
+### 3.2. Prototipo Impresso e Caixa Montada
+
+Foi impresso um protótipo para validar medidas, proporções e a leitura tátil dos acabamentos. Estas impressões serviram para ajustar encaixes, testar a ergonomia da alça e confirmar a escala das inserções internas. Trata‑se de um protótipo funcional, ainda não são as medidas finais de produção, mas permitiram validar decisões. 
+
+![](attachments/embalagem1.jpeg)
+Embalagem totalmente aberta
+
+![](attachments/embalagem2.jpeg)
+Embalagem montada - vista frontal
+
+![](attachments/embalagem3.jpeg)
+Embalagem montada - vista lateral
+
+![](attachments/embalagem4.jpeg)
+Embalagem montada - vista de cima
+
+![](attachments/embalagem5.jpeg)
+Emabalgem aberta - vista de cima
+
+![](attachments/embalagem6_pega.jpeg)
+Embalagem montada - exemplo de utilização

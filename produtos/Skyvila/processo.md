@@ -123,4 +123,5 @@ Referência ao equilíbrio e ao risco das peças cairem; inspira a a brincadeira
 
 ## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+O brinquedo resulta de um processo de desenvolvimento inspirado nas brincadeiras de infância com blocos de construção, na observação dos meus primos mais novos e numa investigação sobre a história e as tradições dos brinquedos de madeira. A partir da curiosidade em compor "mundos" com peças e veículos, identifiquei a ausência de um propósito lúdico capaz de sustentar o interesse contínuo, daí surgiu a proposta de uma cidade-desafio que introduz objetivos e níveis de dificuldade progressivos. 
+O conceito foi igualmente orientado pela intenção de permitir o jogo autónomo. O brinquedo foi concebido para ser utilizado individualmente, sem necessidade de um grupo de crianças ou de acompanhamento constante, adaptando-se a diferentes contextos de uso e promovendo a exploração independente. 

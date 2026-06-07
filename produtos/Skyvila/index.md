@@ -26,7 +26,7 @@ student_number: ""
 
 ## Conceito
 
-O produto consiste num brinquedo de construção e equilíbrio destinado a crianças dos **6 aos 12 anos**, com o objetivo de estimular a criatividade, a coordenação motora e o pensamento espacial. A estrutura é composta por **três troncos de árvore**, cuja dificuldade aumenta conforme o número de troncos empilhados. A criança deve equilibrar as peças da “cidade” nos ramos, evitando que caiam ou que a árvore perca estabilidade. O brinquedo promove a experimentação, a descoberta de soluções e a exploração de múltiplas possibilidades de montagem.
+O produto faz parte da linha **NESTOR BUILDING** e consiste num brinquedo de construção e equilíbrio destinado a crianças dos **5 aos 12 anos**, com o objetivo de estimular a criatividade, a coordenação motora e o pensamento espacial. A estrutura é composta por três troncos de árvore, cuja dificuldade aumenta conforme o número de troncos empilhados. A criança deve equilibrar as peças da “cidade” nos ramos, evitando que caiam ou que a árvore perca estabilidade. O brinquedo promove a experimentação, a descoberta de soluções e a exploração de múltiplas possibilidades de montagem.
 
 ![](attachments/placeholder.png)
 
@@ -38,12 +38,10 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: https://a360.co/4cS26xF <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função
-
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 **Como se brinca**
 A criança seleciona quantos troncos pretende utilizar, 1 tronco (nível fácil), 2 troncos (nível intermédio) ou 3 troncos (nível difícil) e, encaixa-os na base. Em seguida, escolhe as peças da “cidade” e distribui-as pelos ramos, tentando manter o equilíbrio da estrutura. O desafio consiste em posicionar cada peça de forma estratégica, evitando que a árvore tombe ou que as peças caiam. O jogo termina quando a árvore se mantém estável com todas as peças colocadas ou quando a estrutura perde equilíbrio, incentivando a tentativa, o erro e a reconstrução.
