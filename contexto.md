@@ -18,8 +18,6 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ## 1. Resumo / Abstract
 
-> Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
-
 ### Resumo (PT)
 
 A **NESTOR** nasce como uma proposta de design sustentável que une a fabricação digital, a pedagogia e a reutilização de materiais desperdiçados pelas indústrias de mobiliário. O projeto parte da ideia de que o desperdício industrial pode ser transformado em brinquedos com valor educativo e emocional, criando peças em madeira recuperada que estimulam a criatividade, a descoberta e o pensamento crítico. Através da integração do corte CNC, o sistema otimiza o uso da matéria-prima e reduz o impacto ambiental, convertendo excedentes da indústria do mobiliário em objetos duráveis e significativos.
@@ -50,7 +48,7 @@ Formally, the toy designs draw on the tradition of wooden toys, from Leonardo da
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![Objeto 1](attachments/placeholder.png)
+![Objeto 1](attachments/brinquedos_redesenhar.png)
 
 - **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...
