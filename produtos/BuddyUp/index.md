@@ -35,7 +35,8 @@ As peças interligam-se, permitindo uma montagem mais intuitiva e adequada ao p�
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O meu brinquedo pertence à mesma linha do brinquedo "Skyvila" na submarca NESTOR BUILDING, a cidade de construção, porque ambos partilham a mesma linguagem visual, a madeira de pinho e cerejeira e formas simples que estimulam a construção e a criatividade.
+Para melhorar o projeto, acrescentaria mais um ou dois pontos de encaixe para aumentar a estabilidade das peças durante a montagem.
 
 ## Tecnologia
 
