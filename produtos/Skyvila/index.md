@@ -62,7 +62,7 @@ Esta conformidade assegura que o produto pode ser utilizado de forma segura tant
 Imagens-chave que sintetizam o produto final.
 Foram utilizadas imagens geradas no Pletor.ai para as duas primeiras fotografias, enquanto as restantes correspondem a renders produzidos no Fusion 360.
 
-![](attachments/capa_skyvila.png)
+![](attachments/apresentação_skyvila.png)
 ![](attachments/criança_brinquedo.png)
 ![](attachments/skyvila.png)
 ![](attachments/render1.png)
