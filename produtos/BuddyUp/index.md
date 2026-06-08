@@ -96,6 +96,10 @@ O brinquedo promove o desenvolvimento da coordenação motora fina através da m
 
 A possibilidade de criar diferentes personagens incentiva a criatividade, a imaginação e o jogo simbólico, permitindo que a criança construa narrativas próprias e explore diferentes papéis sociais presentes no contexto urbano representado pelo universo Nestor Building.
 
+## Sistema Construtivo:
+
+O brinquedo utiliza um sistema de encaixe macho-fêmea (press-fit), composto por linguetas e ranhuras dimensionadas de acordo com a espessura do material. Esta solução permite a montagem e desmontagem repetida das peças sem recurso a colas, parafusos ou outros elementos de fixação, simplificando a produção, aumentando a durabilidade do produto e facilitando a utilização por crianças de tenra idade.
+
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
