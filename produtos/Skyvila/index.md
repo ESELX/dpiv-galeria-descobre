@@ -3,7 +3,7 @@ title: Skyvila
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/capa_skyvila_building.png
+hero_image: attachments/capa_skyvila.png
 hero_title: Skyvila
 hero_subtitle: Tânia Nunes · 2025-26
 hero_height: 80vh
