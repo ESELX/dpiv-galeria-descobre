@@ -33,7 +33,7 @@ group_number: ""
 ## Contexto de Design
 
 ![](attachments/capa_conjunto_brinquedos.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros... 
+Imagem gerada por inteligência artificial que reúne os quatro brinquedos do projeto
 
 A **Nestor** é uma marca dedicada à criação de brinquedos em **madeira recuperada** que promovem sustentabilidade, durabilidade e experiências de brincar com significado. O principal objetivo é tranformar madeira desperdiçada em objetos que estimulem a criatividade, a descoberta e o desenvolvimento cognitivo, oferecendo produtos com design cuidado, segurança e elevado valor pedagógico. 
 
