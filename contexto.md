@@ -1,11 +1,11 @@
 ---
-title: "Contexto de Design"
+title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Contexto de Design"
-hero_subtitle: "Enquadramento do grupo"
+hero_image: ../attachments/capa.png
+hero_title: Contexto de Design
+hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
 hero_overlay: 0.3
 hero_align: center
@@ -50,8 +50,10 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ![Objeto 1](attachments/brinquedos_redesenhar.png)
 
-- **Objeto 1** — origem / autoria / razão da escolha
+- **Objeto 1** — Conjunto de blocos de madeira de construção (*City Blocks Set) / NESTA TOYS* / Inspirado nas minhas brincadeiras de infância com blocos de construção e criação de "cidades". O objetivo foi reinterpretar esse tipo de brinquedo, acrescentando propósito, progressão, desafios que ampliam a experiência original e interesse contínuo.  
 - **Objeto 2** — ...
+- **Objeto 3** — ...
+- **Objeto 4 — ...
 
 ### 2.2. Moodboard
 

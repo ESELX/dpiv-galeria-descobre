@@ -83,16 +83,47 @@ Esta secção reúne os esboços iniciais e as pranchas-resumo que documentam a 
 ![](attachments/prancha_resumo_final.png)
 Prancha-resumo 3 - Terceira fase
 
-![](attachments/esboços_arquitetura.jpeg)
+![](attachments/esboço_peçasfinais.png)
+Desenho digital - Definição final das formas das peças
 
+![](attachments/esboço10.jpeg)
+Esboço 10 - Exploração e definição das formas dos troncos
+
+![](attachments/esboço9.jpeg)
+Esboço 9 - Desenvolvimento contínuo da interpretação formal das cidades descritas em *As cidades e o céu* 
+
+![](attachments/esboço8.jpeg)
+Esboço 8 - Tradução formal das características das cidades do capítulo  *As cidades e o céu*, de *As cidades Invisíveis* (Italo Calvino) 
+
+![](attachments/esboço7.jpeg)
+Esboço 7 - Definição da forma da base e do primeiro tronco 
+
+![](attachments/esboço6.jpeg)
+Esboço 6 - Exploração da arquitetura das peças 
+
+![](attachments/esboço5.jpeg)
+Esboço 5 - Exploração da arquitetura das peças 
+
+![](attachments/esboço4.jpeg)
+Esboço 4 - exploração de novas formas para as peças
+
+![](attachments/esboço3.jpeg)
+Esboço 3 - definição da brincadeira final e afinição das ideias
+
+![](attachments/esboços_arquitetura.jpeg)
+Desenho digital - tipologia e arquitetura das peças
 
 ![](attachments/prancha_resumo_2.png)
 Prancha-resumo 2 - Segunda fase
 
+![](attachments/esboço2.jpeg)
+Esboço 2 - formato das peças, curavturas e encaixes
+
+![](attachments/esboço1.jpeg)
+Esboço 1 - formato e desenho das peças
+
 ![](attachments/prancha_resumo_1.png)
 Prancha-resumo 1 - Primeira fase
-
-COLOCAR 3 PRANCHAS RESUMO + RECENTE PRIMEIRO - MAIS ANTIGA ULTIMO + DESENHOS E ESBOÇOS
 
 ## 7. Pesquisa
 
@@ -123,5 +154,13 @@ Referência ao equilíbrio e ao risco das peças cairem; inspira a a brincadeira
 
 ## 9. Outros Elementos
 
-O brinquedo resulta de um processo de desenvolvimento inspirado nas brincadeiras de infância com blocos de construção, na observação dos meus primos mais novos e numa investigação sobre a história e as tradições dos brinquedos de madeira. A partir da curiosidade em compor "mundos" com peças e veículos, identifiquei a ausência de um propósito lúdico capaz de sustentar o interesse contínuo, daí surgiu a proposta de uma cidade-desafio que introduz objetivos e níveis de dificuldade progressivos. 
-O conceito foi igualmente orientado pela intenção de permitir o jogo autónomo. O brinquedo foi concebido para ser utilizado individualmente, sem necessidade de um grupo de crianças ou de acompanhamento constante, adaptando-se a diferentes contextos de uso e promovendo a exploração independente. 
+Esta secção reúne modelos intermédios desenvolvidos ao longo do processo. Os links abaixo permitem visualizar diretamente no Fusion 360 as diferentes fases de exploração e construção. 
+
+**Modelo intermédio** - Estrutura avançada: Versão praticamente completa do brinquedo, desenvolvida para testar proporções e funcionamente. Apesar de estar próxima da solução final, acabou por não ser utilizada, uma vez que havia elementos a melhorar.
+
+https://a360.co/4eaDRtZ 
+
+**Modelo inicial** - Testes de encaixe: Ficheiro com duas peças desenvolvidas para explorar e validar o sistema de encaixe entre os elementos. 
+
+https://a360.co/4uWIEGr
+

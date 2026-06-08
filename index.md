@@ -3,7 +3,7 @@ title: Descobre o teu talento
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/capa_conjunto_brinquedos.png
+hero_image: attachments/capa.png
 hero_title: Descobre o teu Talento
 hero_subtitle: Criatividade em cada peça
 hero_height: 100vh
@@ -11,7 +11,7 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: Descobre
+group_name: Descobre o teu talento
 group_number: ""
 ---
 
@@ -34,7 +34,7 @@ group_number: ""
 ## Contexto de Design
 
 ![](attachments/capa_conjunto_brinquedos.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros... LINHAS NESTOR BUILDING E NESTOR VERSUS
+> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros... 
 
 A **Nestor** é uma marca dedicada à criação de brinquedos em **madeira recuperada** que promovem sustentabilidade, durabilidade e experiências de brincar com significado. O principal objetivo é tranformar madeira desperdiçada em objetos que estimulem a criatividade, a descoberta e o desenvolvimento cognitivo, oferecendo produtos com design cuidado, segurança e elevado valor pedagógico. 
 

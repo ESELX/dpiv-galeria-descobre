@@ -28,18 +28,19 @@ student_number: ""
 
 O produto faz parte da linha **NESTOR BUILDING** e consiste num brinquedo de construção e equilíbrio destinado a crianças dos **5 aos 12 anos**, com o objetivo de estimular a criatividade, a coordenação motora e o pensamento espacial. A estrutura é composta por três troncos de árvore, cuja dificuldade aumenta conforme o número de troncos empilhados. A criança deve equilibrar as peças da “cidade” nos ramos, evitando que caiam ou que a árvore perca estabilidade. O brinquedo promove a experimentação, a descoberta de soluções e a exploração de múltiplas possibilidades de montagem.
 
-![](attachments/placeholder.png)
+![](attachments/prancha_resumo_render.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O brinquedo posiciona-se no contexto do grupo através da partilha de uma linguagem comum baseada na simplicidade formal, no uso da madeira e na valorização de objetos que estimulam interação e criatividade. A recolha inicial de objetos a redesenhar permitiu identificar elementos recorrentes, como sistemas de encaixe, modularidade e formas geométricas básicas, que serviram de referência para o desenvolvimento do projeto. A partir dessas observações, o brinquedo foi reinterpretado de forma a manter coerência com a identidade definida pelo grupo, integrando materiais naturais e soluções construtivas que refletem os princípios estabelecidos na fase de análise.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+O brinquedo é produzido em madeira de pinho e cerejeira, selecionadas pela sua resistência, estabilidade, leveza, textura e carácter natural, mantendo a identidade material da marca. As peças foram fabricadas a partir de uma placa de 12 mm de espessura, processada por uma maquina CNC com uma fresa de 3 mm, permitindo cortes limpos, precisão nos encaixes ao longo da produção. 
+
+O desenvolvimento técnico foi realizado no Autodesk Fusion 360, onde o modelo foi construído de forma paramétrica, possibilitanto o ajuste de espessuras e geometrias de acordo com a necessidade de fabrico. A disposição das peças no plano de corte foi otimizada no Fusion 360, garantindo um bom aproveitamento da madeira e reduzindo o desperdício.
 
 - Modelo 3D: https://a360.co/4cS26xF <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
 
 ## Função
 
@@ -59,9 +60,13 @@ Esta conformidade assegura que o produto pode ser utilizado de forma segura tant
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+Foram utilizadas imagens geradas no Pletor.ai para as duas primeiras fotografias, enquanto as restantes correspondem a renders produzidos no Fusion 360.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/capa_skyvila.png)
+![](attachments/criança_brinquedo.png)
+![](attachments/skyvila.png)
+![](attachments/render1.png)
+![](attachments/render2.png)
 
 ---
 
