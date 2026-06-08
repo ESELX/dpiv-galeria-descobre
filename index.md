@@ -3,7 +3,7 @@ title: Descobre o teu talento
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/capa_conjunto_brinquedos.png
 hero_title: Descobre o teu Talento
 hero_subtitle: Criatividade em cada peça
 hero_height: 100vh
@@ -66,7 +66,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/Skyvila/">
-    <img src="produtos/Skyvila/attachments/capa_skyvila_building.png" alt="" />
+    <img src="produtos/Skyvila/attachments/capa_skyvila.png" alt="" />
     <h3>Skyvila</h3>
     <p>Tânia Nunes</p>
   </a>
