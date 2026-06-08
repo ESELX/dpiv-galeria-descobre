@@ -11,7 +11,7 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: ""
+group_name: Descobre
 group_number: ""
 ---
 
