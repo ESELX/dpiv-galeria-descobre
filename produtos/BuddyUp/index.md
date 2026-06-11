@@ -30,9 +30,7 @@ O produto faz parte da linha **NESTOR BUILDING** e consiste num brinquedo de con
 Relativamente ao sistema de encaixe, as 5 personagens estão definidas com um encaixe simples entre as diferentes partes do boneco.
 As peças interligam-se, permitindo uma montagem mais intuitiva e adequada ao público infantil.
 
-
-![](attachments/placeholder.png)
-
+![](attachments/prancha_resumo_renderizada.jpeg)
 ## Enquadramento
 
 O meu brinquedo pertence à mesma linha do brinquedo "Skyvila" na submarca NESTOR BUILDING, a cidade de construção, porque ambos partilham a mesma linguagem visual, a madeira de pinho e cerejeira e formas simples que estimulam a construção e a criatividade.
