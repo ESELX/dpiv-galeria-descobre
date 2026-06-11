@@ -103,9 +103,10 @@ O brinquedo utiliza um sistema de encaixe macho-fêmea (press-fit), composto por
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/apresentação_buddyup.png)
 
+![598](attachments/criança_brinquedo.png)
+![](attachments/brinquedo.jpeg)
 ---
 
 ## Processo
