@@ -102,6 +102,7 @@ O brinquedo utiliza um sistema de encaixe macho-fêmea (press-fit), composto por
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+Foram utilizadas imagens geradas por inteligência artificial para as duas primeiras fotografias, enquanto as restantes correspondem a renders produzidos também por IA de desenhos meus feitos no Ilustrator. A renderização foi inacabada.
 
 ![](attachments/apresentação_buddyup.png)
 
