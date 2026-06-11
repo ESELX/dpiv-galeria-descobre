@@ -107,7 +107,7 @@ Foram utilizadas imagens geradas por inteligência artificial para as duas prime
 ![](attachments/apresentação_buddyup.png)
 
 ![598](attachments/criança_brinquedo.png)
-![](attachments/brinquedo.jpeg)
+![](attachments/BUDDYUP.jpeg)
 ---
 
 ## Processo
