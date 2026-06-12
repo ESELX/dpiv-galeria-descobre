@@ -109,6 +109,8 @@ Foram utilizadas imagens geradas por inteligência artificial para as duas prime
 ![598](attachments/criança_brinquedo.png)
 ![](attachments/BUDDYUP.jpeg)
 ---
+![](attachments/nestor_building.png)
+![](attachments/nestor_building_pacote.png)
 
 ## Processo
 

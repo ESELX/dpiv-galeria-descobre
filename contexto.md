@@ -80,9 +80,8 @@ Mockup da embalagem principal - vista frontal
 
 ![](attachments/mockup_building.jpg)
 Mockup da embalagem secundária - NESTOR BUILDING
-
 ![](attachments/mockup_versus.jpg)
-Mockup da embalagem secundária - NESTOR VERSUS
+![](attachments/mockup_versus.jpgMockup da embalagem secundária - NESTOR VERSUS
 
 Foi então pensada numa estrutura constituída por uma caixa principal, capaz de acomodar até quatro brinquedos de uma só vez, complementada por embalagens secundárias identificadas por cada submarca (**NESTOR BUILDING, NESTOR VERSUS**). Estas embalagens secundárias funcionam como organizadores modulares que facilitam a identificação da linha a que cada produto pertence, organizam os brinquedos dentro da caixa principal e podem ser utilizadas como embalagens individuais caso o brinquedo seja compardo separadamente. 
 
