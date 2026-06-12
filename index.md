@@ -52,7 +52,6 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 [Ver contexto completo →](contexto.md)
 
 ---
-
 ## Galeria de Produtos
 
 <!-- Cada thumbnail liga à página individual de cada produto.
@@ -60,6 +59,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
      e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
 
 <!-- markdownlint-disable MD033 -->
+
 <div class="gallery-grid">
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
@@ -70,7 +70,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Tânia Nunes</p>
   </a>
 <a class="gallery-card" href="produtos/BuddyUp/">
-    <img src="produtos/BuddyUp/attachments/hero.jpg" alt="" />
+    <img src="produtos/BuddyUp/attachments/capa_buddyup.jpeg" alt="" />
     <h3>BuddyUp</h3>
     <p>Adriana Graveiro</p>
   </a>
@@ -87,4 +87,3 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
-<!-- markdownlint-enable MD033 -->
