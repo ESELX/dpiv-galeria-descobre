@@ -3,7 +3,7 @@ title: BUDDYUP
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/capa_buddyup.png)
+hero_image: attachments/capa_buddyup.png
 hero_title: BUDDYUP
 hero_subtitle: Adriana Graveiro · 2025-26
 hero_height: 80vh
