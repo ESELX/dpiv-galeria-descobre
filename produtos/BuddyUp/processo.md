@@ -50,6 +50,53 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
+
+
+
+
+
+
+
+
+
+
+
+![](attachments/esboço_peças_finais.png)
+Desenho digital - Definição final das formas das peças
+
+![](attachments/esboço6.png)
+Esboço 6 - Exploração da arquitetura das peças 
+
+![](attachments/esboço5.jpeg)
+Esboço 5 - Exploração da arquitetura das peças 
+
+![](attachments/esboço4.jpeg)
+Esboço 4 - exploração de novas formas para as peças
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esboço 3 - definição da brincadeira final e afinição das ideias
+
+![](attachments/esboço6.png)
+Desenho digital - tipologia e arquitetura das peças
+
+![](attachments/prancha_resumo_2.png)
+Prancha-resumo 2 - Segunda fase
+
+![](attachments/esboço2.jpg)
+Esboço 2 - formato das peças, curavturas e encaixes
+
 ![](attachments/esboço1.jpg)
 Esboço 1 - formato e desenho das peças
 
