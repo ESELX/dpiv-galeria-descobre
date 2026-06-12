@@ -59,16 +59,16 @@ Prancha-resumo 3 - Terceira fase
 ![](attachments/esboço_peças_finais.png)
 Esboço 6 - Exploração da arquitetura das peças 
 
-![](attachments/esboço6.png)
+![](attachments/esboço5.png)
 Esboço 5 - Desenho digital - tipologia e arquitetura das peças
 
 ![](attachments/prancha_resumo_2.png)
 Prancha-resumo 2 - Segunda fase
 
-![](attachments/esboço5.jpeg)
+![](attachments/esboço4.jpeg)
 Esboço 5 - Exploração da arquitetura das peças 
 
-![](attachments/esboço4.jpeg)
+![](attachments/esboço3.jpeg)
 Esboço 4 - exploração de novas formas para as peças
 
 ![](attachments/esboço2.jpg)
