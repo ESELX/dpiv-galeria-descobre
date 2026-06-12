@@ -3,7 +3,7 @@ title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: attachments/capa_buddyup.png)
+hero_image: attachments/capa_buddyup.png
 hero_title: Processo
 hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
