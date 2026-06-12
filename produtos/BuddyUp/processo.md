@@ -38,20 +38,30 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 ## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+![](attachments/render1.png)
 
-## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
+
+
+
+
+
+
+
+
+
+![](attachments/render2.png)
+![](attachments/render3.png)
 ![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+![](attachments/render4.png)
+![](attachments/render5.png)## 6. Esboços e Pranchas-Resumo
 
 Esta secção reúne os esboços iniciais e as pranchas-resumo que documentam a evolução do projeto ao longo das diferentes fases de desenvolvimento.
 
+![](attachments/prancha_resumo_renderizada.jpeg)
+Prancha-resumo renderizada- Última Fase
 
 ![](attachments/prancha_resumo_final.jpeg)
 Prancha-resumo 3 - Terceira fase
