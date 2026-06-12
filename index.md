@@ -70,7 +70,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Tânia Nunes</p>
   </a>
 <a class="gallery-card" href="produtos/BuddyUp/">
-    <img src="produtos/BuddyUp/attachments/capa_buddyup.jpeg" alt="" />
+    <img src="produtos/BuddyUp/attachments/capa_buddyup.png" alt="" />
     <h3>BuddyUp</h3>
     <p>Adriana Graveiro</p>
   </a>
