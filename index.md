@@ -14,7 +14,9 @@ course: DesignDeProdutoIV
 group_name: Descobre o teu talento
 group_number: ""
 ---
+```
 **
+```
 # Descobre o teu Talento
 
 > Transformamos madeira recuperada em experiências de criatividade e descoberta.
@@ -75,7 +77,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Adriana Graveiro</p>
   </a>
   <a class="gallery-card" href="produtos/Blokar/">
-    <img src="produtos/Blokar/attachments/hero.jpg" alt="" />
+    <img src="produtos/Blokar/attachments/mockup_b.png" alt="" />
     <h3>Blokar</h3>
     <p>Ana Brügger</p>
   </a>

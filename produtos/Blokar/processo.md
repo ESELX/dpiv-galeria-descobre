@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_image:
+hero_title: Processo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -16,58 +16,52 @@ published: true
 
 > Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
-## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 1. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/44f22Ts
 
-## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+## 2. Esboços e Pranchas-Resumo
 
-![](attachments/placeholder.png)
+![](attachments/rascunho%20pc.jpg)
+Rascunho feito no ProCreate.
 
-## 6. Esboços e Pranchas-Resumo
+![](attachments/rascunho%201.jpg)
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+![](attachments/rascunho%202.jpg)
 
-![](attachments/placeholder.png)
+![](attachments/presumo%20b.png)
+## 3. Pesquisa
 
-## 7. Pesquisa
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+O moodboard valoriza sobretudo a utilização da madeira e das suas texturas naturais, combinadas com uma linguagem visual simples e contemporânea. As referências exploram formas geométricas básicas, modularidade e encaixes visíveis, criando objetos funcionais, lúdicos e visualmente equilibrados.
 
-![](attachments/placeholder.png)
+A desconstrução da forma surge através da repetição e reorganização de elementos simples, permitindo diferentes composições e formas de interação. Estes aspetos serviram de inspiração para desenvolver um produto que combina estratégia, experimentação e valorização do material.
 
-### 7.2. Objetos de referencia
+### 3.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+![](attachments/inspo.png)
 
-![](attachments/placeholder.png)
+A principal referência para este projeto foi o brinquedo **Pinguim Numa Fria**, da Art Brink, um jogo de estratégia e destreza em que os jogadores removem peças sem provocar a queda do pinguim. Também foram considerados outros jogos de equilíbrio, como o **Jenga**, que partilham a mesma lógica de precisão, concentração e tomada de decisão.
 
-## 9. Outros Elementos
+Estas referências inspiraram o desenvolvimento de um brinquedo competitivo que estimula o raciocínio estratégico, a coordenação motora e a interação entre jogadores.
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+## 3. Outros Elementos
+
+Durante o desenvolvimento do projeto, foram consultadas algumas referências sobre a importância do jogo no desenvolvimento infantil. Estas pesquisas destacam o papel dos brinquedos de estratégia e destreza no desenvolvimento do raciocínio lógico, da coordenação motora e da capacidade de resolver problemas. Também foi considerada a importância do brincar como forma de promover a socialização e a interação entre crianças.
+
+**Referências consultadas:**
+
+https://www.gse.harvard.edu/ideas/usable-knowledge/23/05/embracing-learning-through-play
+
+https://kiddieacademy.com/blog/parenting-resources/how-socialization-plays-a-role-in-your-childs-development/
+
+https://www.uol.com.br/vivabem/noticias/redacao/2021/09/28/brincar-com-outras-criancas-desenvolve-a-saude-mental-e-fisica-na-infancia.htm
+
+https://colegiosmaristas.com.br/maristaon/jogos-de-estrategia-confira-os-beneficios-para-o-seu-filho
+
+https://www.villadeibambini.com.br/movimento-de-pinca-2/
